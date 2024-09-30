@@ -2,17 +2,13 @@
   "name": "react-01-ex-v18.x.x",
   "version": "1.0.0",
   "main": "index.js",
-  "scripts": {
-    "dev": "turbo dev"
-  },
   "author": "Helekin",
   "license": "ISC",
   "description": "",
   "workspaces": [
     "apps/*"
   ],
-  "devDependencies": {
-    "turbo": "^2.1.2"
-  },
-  "packageManager": "npm@10.8.2"
+  "dependencies": {
+    "react-01-ex-v18.x.x": "file:"
+  }
 }

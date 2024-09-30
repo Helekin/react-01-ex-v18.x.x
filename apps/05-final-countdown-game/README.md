@@ -1,18 +1,13 @@
 ## About The Project
 
-This repository contains a comprehensive exercise set that covers section 8 of the Udemy course "React - The Complete Guide 2023 (incl. React Router & Redux)" instructed by Maximilian Schwarzmüller.  In this section, the usage of refs & portals is examined.
-
-- [Udemy Instructor](https://www.udemy.com/user/maximilian-schwarzmuller/)
-- [Udemy Course](https://www.udemy.com/course/react-the-complete-guide-incl-redux/)
-
-## Getting Started
+This repository contains a comprehensive exercise set that covers section 8 of the Udemy course "React - The Complete Guide 2024 (incl. Next.js, Redux)" instructed by Maximilian Schwarzmüller.  In this section, the usage of refs & portals is examined.
 
 ### Usage
 
 1. Install project dependencies:
 
 ```sh
-cd 05-easy-final-countdown-game
+cd 05-final-countdown-game
 npm install
 ```
 
