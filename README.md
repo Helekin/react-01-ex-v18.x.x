@@ -19,6 +19,18 @@ Greetings! Here, you'll find a collection of exercises derived from the Udemy co
 git clone https://github.com/Helekin/react-01-v18.x.x.git
 ```
 
+2. Navigate to the project folder:
+
+```sh
+cd apps/choose-your-project
+```
+
+3. Run the application in development mode:
+
+```sh
+npm run dev
+```
+
 ## License
 
 Distributed under the MIT License.
